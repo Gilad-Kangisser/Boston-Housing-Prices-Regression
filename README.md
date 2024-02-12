@@ -18,4 +18,6 @@ Additionally, this project will involve the full machine learning pipeline, incl
 
 Our goal is to find the most suitable regression model for predicting house prices and to identify the most relevant features contributing to the predictions. We will use various data processing and feature selection techniques to optimize the model's performance.
 
-[Let's get started!](https://github.com/Gilad-Kangisser/Boston-Housing-Prices-Regression/blob/main/updated-common-notebook-rdng-f599e7.ipynb)
+[Read the notebook.](https://github.com/Gilad-Kangisser/Boston-Housing-Prices-Regression/blob/main/updated-common-notebook-rdng-f599e7.ipynb)
+
+[A concluding analysis of the project can be seen here.](2367017_IndividualDeliverable.pdf)
