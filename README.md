@@ -17,3 +17,5 @@ In this notebook, we will explore various machine learning algorithms to predict
 Additionally, this project will involve the full machine learning pipeline, including data cleaning and pre-processing, feature selection, model selection and tuning, and evaluation. We will also be using various visualization techniques to explore and present our findings.
 
 Our goal is to find the most suitable regression model for predicting house prices and to identify the most relevant features contributing to the predictions. We will use various data processing and feature selection techniques to optimize the model's performance.
+
+[Let's get started!](https://github.com/Gilad-Kangisser/Boston-Housing-Prices-Regression/blob/main/updated-common-notebook-rdng-f599e7.ipynb)
